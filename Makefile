@@ -1,3 +1,3 @@
 all:
-	g++ client.cpp -lsodium -o client
-	g++ server.cpp -lsodium -o server
+	g++ src/client.cpp -lsodium -o client
+	g++ src/server.cpp -lsodium -o server

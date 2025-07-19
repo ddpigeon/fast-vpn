@@ -1,5 +1,5 @@
-#include "tun_util.hpp"
-#include "crypto_util.hpp"
+#include "../inc/tun_util.hpp"
+#include "../inc/crypto_util.hpp"
 #include <thread>
 
 int main() {
